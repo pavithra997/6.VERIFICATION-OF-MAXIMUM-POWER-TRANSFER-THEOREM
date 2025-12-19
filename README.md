@@ -1,5 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
-
+## NAME: PAVITHRA P
+## REF NO:25014284
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
@@ -25,6 +26,14 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
+
+<img width="745" height="1280" alt="image" src="https://github.com/user-attachments/assets/27efc42d-48c8-484d-9a73-b4e6c22657ac" />
+
+<img width="809" height="1280" alt="image" src="https://github.com/user-attachments/assets/9249309a-345f-475d-a6b8-faba151717b8" />
+
+<img width="796" height="1280" alt="image" src="https://github.com/user-attachments/assets/e9d4d42b-335d-4336-9529-73c7a47b8736" />
+
+<img width="801" height="1280" alt="image" src="https://github.com/user-attachments/assets/828b8113-9382-4d40-8de7-c2c6935670f4" />
 
 
 **MODEL GRAPH:**
